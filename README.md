@@ -24,23 +24,3 @@ MyContactList is a full-stack Android application designed for efficient contact
 1. Clone the repository:
    ```sh
    git clone https://github.com/NatalieLuisa/Contact-List-Project.git
-MyContactList/
-├── .gitignore
-├── .idea/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/
-│   │   │   │   └── com/
-│   │   │   │       └── example/
-│   │   │   │           └── mycontactlist/
-│   │   │   ├── res/
-│   │   │   │   ├── layout/
-│   │   │   │   └── values/
-│   │   │   └── AndroidManifest.xml
-├── build.gradle
-├── gradle.properties
-├── gradle/
-├── gradlew
-├── gradlew.bat
-└── settings.gradle
